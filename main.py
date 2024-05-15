@@ -1,3 +1,6 @@
+from selenium_methods import get_spanish_dict_data
+from wiktionary_methods import get_wiktionary_list
+
 def get_lemmas(file: str, output=None) -> list:
     with open(file, "r", encoding="utf8") as f:
         lines = f.readlines()
@@ -35,4 +38,6 @@ def get_new_lemmas(current: str, additional: str, output=None) -> list:
     
     return new_lemmas
 
-get_new_lemmas("lemmas.txt", "frequency_lists/processed-1.txt")
+if __name__ == "__main__":
+    lemmas = get_new_lemmas("lemmas.txt", "frequency_lists/processed-1.txt")
+    results = get_wiktionary_list(lemmas, output="output3.csv")
