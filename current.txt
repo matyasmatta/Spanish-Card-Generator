@@ -1,0 +1,2065 @@
+#separator:tab
+#html:false
+ser	to be								
+estar	to be								
+acabar	to finish								
+aceptar	to accept								
+andar	to walk								
+aprender	to learn								
+ayudar	to help								
+bailar	to dance								
+beber	to drink								
+buscar	to look for								
+caer	to fall								
+cambiar	to change								
+caminar	to walk								
+cantar	to sing								
+comer	to eat								
+comprar	to buy								
+conducir	to drive								
+conocer	to know								
+contar	to count								
+contestar	to answer								
+correr	to run								
+cortar	to cut								
+creer	to believe								
+dar	to give								
+deber	to owe								
+decir	to say								
+dejar	to leave, to let								
+desear	to wish								
+dibujar	to draw  can also mean to sketch  or to appear reflexive								
+doler	to hurt								
+dormir	to sleep								
+empezar	to start								
+encontrar	to find								
+enseñar	to teach								
+escuchar	to listen								
+esperar	to wait for								
+estar	to be								
+estudiar	to study								
+explicar	to explain								
+guardar	to keep								
+gustar	to like								
+haber	to have (auxiliary)								
+hablar	to speak								
+hacer	to make								
+ir	to go								
+jugar	to play								
+lavar	to wash  can be used reflectively lavarse can also mean to launder								
+leer	to read								
+limpiar	to clean								
+llamar	to call, to name (me llamo)								
+llegar	to arrive								
+llenar (La luna está llena)	to fill								
+llevar	to carry								
+llorar	to cry								
+manejar	to drive  used in America synonym of conducir								
+mirar	to look								
+mostrar	to show								
+necesitar	to need								
+oír	to hear								
+olvidar	to forget								
+pagar	to pay								
+pasar	to pass								
+pedir	to request								
+peinar	to comb (to do one's hair)								
+pensar	to think								
+perder	to lose								
+poder	to be able to								
+poner	to put								
+preguntar	to ask								
+prestar	to lend, borrow								
+quedarse	to stay								
+querer	to want								
+romper	to break								
+saber	to know								
+sacar	to dry								
+salir	to go out								
+seguir	to follow								
+sentirse	to feel								
+ser	to be								
+soñar	to dream								
+tener	to have								
+terminar	to finish								
+tocar	to touch  synonym is rozar								
+tomar	to take								
+trabajar	to work								
+traer	to bring								
+usar	to use								
+valer	to be worth								
+vender	to sell								
+venir	to come								
+ver	to see								
+vestir	to dress								
+viajar	to travel								
+vivir	to live								
+volar	to fly								
+volver	to return								
+él				he			Pron		
+usted				you		formal	Pron		
+yo				I			Pron		
+la mujer				woman			N	f	
+la leche				milk			N	f	
+la manzana				apple			N	f	
+el hombre				man			N	m	
+el agua				water			N	m	
+beber				to drink			V		
+tú				you		familiar, singular	Pron		
+la niña				girl, child			N	f	
+el niño			el chico	boy, child			N	m	
+el pan				bread			N	m	
+ella				she			Pron		
+comer				to eat			V		
+gracias				thank you			Expr		
+buenas noches				goodnight; good evening			Expr		
+hola				hello			Expr		
+por favor				please			Expr		
+perdón			disculpe / lo siento	sorry, excuse me			Expr		
+adiós				goodbye			Prep		
+mucho gusto				nice to meet you			Expr		
+buenos días				good morning			Expr		
+de nada				you're welcome			Expr		
+disculpe			p…	excuse me			Expr		
+lo siento				I'm sorry		for wrongdoing	Expr		
+nosotros, nosotras				we			Pron		
+el vino				wine			N	m	
+ustedes				you		plural	Pron		
+el libro				book			N	m	
+escribir				to write			V		
+el diario			el periódico	daily newspaper; diary			N	m	
+leer				to read			V		
+los, las				the		plural	Part		
+la persona				person			N	f	
+ellos, ellas				they			Pron		
+la carta				letter; written note			N	f	
+el queso				cheese			N	m	
+el tomate				tomato			N	m	
+el azúcar				sugar			N	m	
+la sal				salt			N	f	
+la salsa				sauce			N	f	
+la sopa				soup			N	f	
+el almuerzo			la comida	lunch			N	m	
+el vegetal			la verdura / la hortaliza	vegetable			N	m	
+el vegetariano, la vegetariana				vegetarian			N	m	
+el desayuno				breakfast			N	m	
+la naranja				orange		fruit	N	f	
+la papa			la patata	potato			N	f	
+la pasta				pasta			N	f	
+cocinar				to cook; to prepare meals			V		
+el emparedado			b… / t…	sandwich			N	m	
+el menú				menu			N	m	
+la fresa				strawberry			N	f	
+el limón				lemon			N	m	
+el arroz				rice			N	m	
+la cebolla				onion			N	f	
+el té				tea			N	m	
+la cena				dinner			N	f	
+la cerveza				beer			N	f	
+la carne				meat			N	f	
+el pollo				chicken			N	m	
+el pescado				fish			N	m	
+la comida				food; meal			N	f	
+el jugo				juice			N	m	
+el huevo				egg			N	m	
+la fruta				fruit			N	f	
+el gato, la gata				cat			N	mf	
+el oso, la osa				bear			N	m	
+el pato, la pata				duck			N	m	
+el león				lion			N	m	
+el mono, la mona				monkey			N	m	
+el pájaro				bird			N	m	
+la araña				spider			N	f	
+la tortuga				tortoise; turtle			N	f	
+el animal				animal			N	m	
+el perro, la perra				dog			N	m	
+el pingüino				penguin			N	m	
+el elefante				elephant			N	m	
+el caballo				horse			N	m	
+el conejo, la coneja				rabbit			N	m	
+el cangrejo				crab			N	m	
+el ratón				mouse			N	m	
+el cerdo, la cerda				pig; pork			N	m	
+el toro				bull			N	m	
+las llaves				keys			N	f	
+la corbata				tie			N	f	
+la chaqueta			el abrigo	jacket			N	f	
+el traje				suit			N	m	
+el vestido			la prenda	dress			N	m	
+las botas				boots			N	f	
+los zapatos				shoes			N	m	
+el abrigo			c…	coat			N	m	
+la camisa				shirt			N	f	
+el cinturón				belt, sash			N	m	
+la ropa				clothes, clothing			N	f	
+las gafas				glasses			N	f	
+el sombrero				hat			N	m	
+el pantalón				pants			N	m	
+la falda		related to Germanic fold		skirt			N	f	
+el calcetín				sock			N	m	
+el suéter				sweater			N	m	
+rosa				pink			Adj		
+negro, negra				black			Adj		
+café			m…	brown			Adj		
+azul				blue			Adj		
+morado			purpura	purple			Adj		
+púrpura			m…	purple			Adj	f	
+gris				gray			Adj		
+amarillo, amarilla				yellow			Adj		
+blanco, blanca				white			Adj		
+rojo, roja				red			Adj		
+verde				green			Adj		
+cómo				how			Conj		
+quién				who			Pron		
+qué				what			QP		
+cuál				which; what		interrogative	QP		
+cuándo				when			Conj		
+cuánto, cuánta, cuántos, cuántas				how much; how many			Adv		
+la pregunta				question			N	f	
+tocar				to touch			V		
+tener			poseer	to have			V		
+ver			mirar	to see, to look at, to watch		passive	V		
+oír			escuchar	to hear; to listen to			V		
+dormir				to sleep			V		
+poder			lograr	to be able			V		
+hablar				to speak			V		
+ir		(irregular yo voy)		to go			V		
+pagar				to pay; to pay for			V		
+caminar			a…	to walk			V		
+correr				to run			V		
+nadar				to swim			V		
+hacer				to do, to make			V		
+querer				to want, to love, to like			V		
+sino			pero	but, but rather, but instead			Conj		
+aunque				although; even though; even if		La mesa se rompió, aunque es nueva.	Conj		
+que				that		referring to subject, not predicate	Conj		
+y				and			Conj		
+si				if			Conj		
+porque				because			Conj		
+pero				but			Conj		
+como				like, as, such as			Conj		
+mientras				while			Conj		
+ni				nor; neither			Conj		
+o				or			Conj		
+el atún				tuna			N	m	
+el banano			el plátano	banana			N	m	
+el plátano			el banano	banana			N	m	
+la mantequilla			el burro	butter			N	f	
+el pavo				turkey		food	N	m	
+la piña			a…	pineapple			N	f	
+el maíz				corn			N	m	
+la zanahoria				carrot			N	f	
+el aceite			o… / el petrol	oil			N	m	
+la pimienta				pepper			N	f	
+el ajo				garlic			N	m	
+la uva				grape			N	f	
+el hongo			c… / s…	mushroom			N	m	
+el pastel			t…	cake			N	m	
+la ensalada				salad			N	f	
+la lechuga				lettuce			N	f	
+el hielo				ice			N	m	
+la hija				daughter			N	f	
+el hijo				son			N	m	
+el tío				uncle			N	m	
+la tía				aunt			N	f	
+el primo, la prima				cousin			N	m	
+el padre			el pápa	father		formal	N	m	
+la abuela				grandma			N	f	
+el bebé, la bebé				baby			N	m	
+la novia				girlfriend			N	f	
+el marido			la esposa	husband			N	m	
+el novio				boyfriend			N	m	
+el papá				dad		informal	N	m	
+la madre				mother		formal	N	f	
+el hermano				brother			N	m	
+la mamá				mom		informal	N	f	
+la hermana				sister			N	f	
+la familia				family			N	f	
+el esposo			el marido	husband			N	m	
+la esposa				wife			N	f	
+el abuelo				grandpa			N	m	
+los padres				parents			N	m	
+por			para	by, for			Prep		
+para			por	for, in order to			Prep		
+a				to; atper; every (time)			Prep		
+según			a…	according to, as			Prep		
+con				with			Prep		
+sobre			a…	on; about			Prep		
+contra				against			Prep		
+entre				between, among			Prep		
+de				of; from			Prep		
+acerca de			sobre / de	about			Prep		
+en				in; on; at			Prep		
+durante				during			Prep		
+sin				without			Prep		
+cerca				nearby, close			Adv		
+hacia				towards			Prep		
+largo, larga				long			Adj		
+alto, alta				tall, high			Adj		
+el tamaño				sizesuch			N Adj		
+pequeño, pequeña				small			Adj		
+enorme				huge, enormous			Adj		
+grande				big, large, grand, great			Adj		
+corto, corta				short (length), brief			Adj		
+bajo, baja			corto	low, short			Adj		
+el refrigerador				refrigerator			N	m	
+el vaso				(drinking) glass			N	m	
+la rasuradora				electric shaver			N	f	
+la lámpara				lamp			N	f	
+la puerta				door; gate			N	f	
+la lavadora				washing machine			N	f	
+los platos				dishesplates			N	m	
+limpiar				to clean			V		
+la piscina				swimming pool			N	f	
+la mesa				table			N	f	
+el paraguas				umbrella			N	m	
+la escalera				stairs; ladder			N	f	
+el plato				plate			N	m	
+la ventana				window			N	f	
+el dormitorio			h…	bedroom			N	m	
+la cuchara				spoon			N	f	
+el sótano				basement			N	m	
+la cuna				cradle; crib			N	f	
+sartén		can be used with either gender		frying pan			N	mf	
+la televisión			el televisor	television			N	f	
+el sofá				sofa			N	m	
+la taza			la copa	cup			N	f	
+la cama				bed			N	f	
+el teléfono				telephone			N	m	
+el jabón		verb is enjabonar		soap			N	m	
+la pared		(indoors)	el muro (freestanding)	wall			N	f	
+la habitación			el cuarto	room, bedroom			N	f	
+la esponja				sponge			N	f	
+el horno				oven			N	m	
+el piso			el suelo	floor			N	m	
+el espejo				mirror			N	m	
+el baño				bathroom			N	m	
+el escritorio				desk			N	m	
+la cartera				wallet; purse			N	f	
+la sábana				bed sheet			N	f	
+la cocina				kitchen			N	f	
+el cepillo				brush			N	m	
+la silla				chair			N	f	
+la secadora				dryer			N	f	
+el cuchillo				knife			N	m	
+el techo				ceiling; roof			N	m	
+el empleado, la empleada				employee			N	m/f	
+el poeta, la poeta				poet			N	m/f	
+el especialista, la especialista				specialist			N	m	
+el ingeniero, la ingeniera				engineer			N	m/f	
+el pintor, la pintora				painter			N	m/f	
+el estudiante, la estudiante				student			N	m/f	
+el cocinero, la cocinera				cook		occupation	N	m/f	
+el policía, la policía				police, police officer			N	m/f	
+el secretario, la secretaria				secretary			N	m/f	
+el comandante				commander			N	m	
+el abogado, la abogada				lawyer			N	m/f	
+el juez, la jueza				judge			N	m/f	
+la profesión				job; profession			N	f	
+el conductor, la conductora				driver; conductor			N	m/f	
+el atleta, la atleta				athlete			N	m/f	
+el sacerdote				priest		CZ: kněz	N	m	
+el periodista, la periodista				journalist			N	m/f	
+el artista, la artista				artist			N	m/f	
+el doctor, la doctora			el médico	doctor			N	m/f	
+el enfermero, la enfermera				nurse			N	m/f	
+la actriz				actress			N	f	
+el mesero, la mesera			c…	waiter			N	m/f	
+el agente, la agente				agent			N	m/f	
+la especialidad				speciality			N	f	
+el jefe, la jefa				boss			N	m/f	
+el dueño, la dueña				owner			N	m/f	
+el actor, la actora				actor			N	m/f	
+el príncipe				prince			N	m	
+el autor, la autora				author			N	m/f	
+el soldado				soldier			N	m	
+el rey				king			N	m	
+el cajero, la cajera				cashier			N	m/f	
+el trabajo			la obra	work, job, effort			N	m	
+el coronel				colonel		CZ: plukovník	N	m	
+la sacerdotisa				priestess		CZ; kněžka	N	f	
+el empresario, la empresaria			el hombre de negocios	businessman; entrepreneur			N	m/f	
+el profesor, la profesora				professor			N	m/f	
+la guardia				guard			N	f	
+el granjero, la granjera				farmer			N	m/f	
+el maestro, la maestra				teacher			N	m	
+el capitán, la capitana				captain			N	m	
+el carpintero, la carpintera				carpenter		CZ: tesař	N	m/f	
+el panadero, la panadera				baker			N	m/f	
+la cita				appointment			N	f	
+la noche				night			N	f	
+el viernes				Friday			N	m	
+el sábado				Saturday			N	m	
+ayer				yesterday			Adv		
+el enero				January			N	m	
+el segundo				second		time	N	m	
+el junio				June			N	m	
+el domingo				Sunday			N	m	
+la semana				week			N	f	
+hasta				until			Prep		
+desde				since, from			Prep		
+el día				day			N	m	
+la fecha				date		calendar	N	f	
+el martes				Tuesday			N	m	
+el julio				July			N	m	
+la fiesta				party			N	f	
+el mediodía				noon			N	m	
+el calendario				calendar			N	m	
+el marzo				March			N	m	
+el mayo				May			N	m	
+la temporada			e…	season			N	f	
+el diciembre				December			N	m	
+el cumpleaños				birthday			N	m	
+la hora			el tiempo	time; hour			N	f	
+el septiembre				September			N	m	
+hoy				today			Adv		
+el noviembre				November			N	m	
+el momento				moment, time			N	m	
+un rato				a while		time	N	m	
+el agosto				August			N	m	
+el abril				April			N	m	
+la madrugada				early morning, dawn			N	f	
+la primavera				springtime			N	f	
+el miércoles				Wednesday			N	m	
+el verano				summer			N	m	
+el jueves				Thursday			N	m	
+el lunes				Monday			N	m	
+el febrero				February			N	m	
+la estación				station; season			N	f	
+el octubre				October			N	m	
+el minuto				minute			N	m	
+el mes				month			N	m	
+anoche				last night			Adv		
+el invierno				winter			N	m	
+la mañana				tomorrow, morning			N	f	
+las vacaciones				vacation, holiday			N	f	
+una vez				once			Adv		
+dos veces				twice			Num		
+tarde				late			Adv		
+la vez				time; occasion			N	f	
+la tarde				afternoon			N	f	
+real				real			Adj		
+malo, mala, mal				bad			Adj		
+responsable				responsible			Adj		
+bilingüe				bilingual			Adj		
+principal				principal; main			Adj		
+simple			sencillo	simple			Adj		
+necesario, necesaria				necessary			Adj		
+rápido, rápida				rapid, quick			Adj		
+último, última			final	last			Adj Num		
+duro, dura		as in the material dural		hard; firm; tough			Adj		
+tradicional				traditional			Adj		
+reciente				recent			Adj		
+mismo, misma				same			Adj		
+mejor		not to be confused with mujer		better			Adj		
+peor				worse			Adj		
+mayor				greater, older			Adj		
+solo, sola				alone, lonely			Adj		
+viejo, vieja				old			Adj		
+familiar				familiar			Adj		
+primero, primera				first			Adj Num		
+claro, clara				light (colour), clear			Adj		
+natural				natural			Adj		
+histórico, histórica				historical; historic			Adj		
+pobre				poor			Adj		
+nuevo, nueva				new			Adj		
+rico, rica				rich, wealthyrich, tasty			Adj		
+único, única				unique; only			Adj		
+junto, junta				togethernext to			Adj Prep		
+fuerte				strong			Adj		
+menor				minor, younger			Adj		
+seguro, segura				safe, certain			Adj		
+inteligente				intelligent			Adj		
+caro, cara				expensive			Adj		
+normal				normal			Adj		
+pasado				past			N Adj		
+popular				popular			Adj		
+público, pública				public			Adj		
+barato, barata				cheap, trashy			Adj		
+posible				possible			Adj		
+bonito, bonita				pretty			Adj		
+siguiente			d…	following, after			Adj		
+el mejor				the best			Adj	m	
+importante				important			Adj		
+feo, fea				ugly			Adj		
+final			último	final, last			Adj		
+diferente				different			Adj		
+positivo, positiva				positive			Adj		
+joven				young			Adj		
+bueno, buena, buen				good			Adj		
+el peor				the worst			Adj	m	
+distinto			diferente	distinct, different			Adj		
+imposible				impossible			Adj		
+tanto, tanta			tan	so; so much; so many			Adj		
+útil				useful			Adj		
+capaz				able, capable			Adj		
+suficiente				sufficient, enough			Adj		
+plano, plana				flat			Adj		
+profesional				professional			Adj		
+personal				personal			Adj		
+local				local			Adj		
+cierto, cierta			verdadero	true, certain			Adj		
+propio, propia				(my) own			Adj		
+justo, justa				just, fair			Adj		
+próximo, próxima				next			Adj		
+estudiar				to study			V		
+llevar				to wear, to carry			V		
+incluir				to include, to enclose			V		
+quedar(se)				to stay, to remain			V		
+requerir			necesitar	to need (require)			V		
+entrar				to enter			V		
+aparecer				to appear			V		
+conocer				to know (be familiar with), to meet			V		
+probar			tratar	to test, to try	on clothes, food		V		
+venir				to come			V		
+acabar			terminar	to finish; to run out, to end, to complete			V		
+pensar			creer	to think			V		
+empezar			comenzar / iniciar	to begin, to start			V		
+abrir				to open			V		
+buscar				to search, to seek			V		
+llegar				to arrive			V		
+caber				to fit; to squeeze in			V		
+depender				to depend			V		
+cerrar				to close			V		
+ayudar				to help			V		
+seguir			c…	to follow, to continue			V		
+dar				to give			V		
+soñar				to dream			V		
+parecer				to look like, to seem			V		
+entregar				to deliver			V		
+volver				to return; to come back			V		
+servir				to serve			V		
+mostrar				to show			V		
+respetar				to respect			V		
+no parece importar				it doesn't seem to matter			Expr		
+firmar				to sign	a document		V		
+tomar				to taketo have something to eat or to drink			V		
+aceptar				to accept			V		
+mirar				to actively look at, to watch			V		
+pesar				to weigh			V		
+decir				to say			V		
+recordar				to remember			V		
+encontrar				to find, to encounter			V		
+contar				to count			V		
+saber			conocer	to know	facts		V		
+presentar			i…	to introduce, to present			V		
+bajar				to go down, to lower, to decrease			V		
+visitar				to visit			V		
+jugar				to play, to bet			V		
+importar				to matterto import			V		
+queda azúcar?				is there any sugar left?			Expr		
+comenzar			empezar / iniciar	to commence, to begin, to start		CZ: zahájit	V		
+culpar				to blame			V		
+todo, toda				all, every			Adv		
+ambos, ambas				both			Adv		
+cualquier, cualquiera				any			Adv		
+cuanto				as much as; as many as; how much			Adv		
+todos los días				every day			Adv		
+cada				each, every		time	Adv		
+unos, unas			alguno	some		plural article	Pron		
+otro, otra				other; another			Adv		
+alguno, alguna			u…	some, any			Adv		
+(un) poco				a little, few		amount	Adv		
+mucho, mucha, muchos, muchas				much, many, a lot			Adv		
+ninguno, ninguna, ningún				none, not any			Adv		
+demasiado, demasiada				too; too much; too many			Adv		
+inmediatamente				immediately			Adv		
+aquí				here			Adv		
+realmente			m…	really			Adv		
+recientemente				recently			Adv		
+relativamente				relatively			Adv		
+seguramente				certainly, surely			Adv		
+casi				almost			Adv		
+igualmente				equally, likewise			Adv		
+lentamente			d…	slowly			Adv		
+rápidamente				quickly			Adv		
+hasta pronto			te veré	see you soon			Expr		
+qué viene después?				what comes afterwards?			Expr		
+completamente				completely			Adv		
+muy				very			Adv		
+allí				there		within visible distance	Adv		
+adelante				forward			Adv		
+ya				already, by now			Adv		
+totalmente				totally			Adv		
+por supuesto			desde luego / naturalmente	of course			Expr		
+quizá, quizás				perhaps			Adv		
+luego			más tarde	later			Adv		
+pronto, pronta				soon			Adv		
+aun			i…	even			Conj		
+perfectamente				perfectly			Adv		
+desde luego			por supuesto	of course			Adv		
+aún			todavía	still, yet, even			Adv		
+bastante			suficiente	enough, quite			Adv		
+actualmente				currently			Adv		
+ahí				there		close proximity	Adv		
+lejos				far			Adv		
+probablemente				probably			Adv		
+jamás			nunca	never			Adv		
+un año después				a year later			Expr		
+especialmente				especially			Adv		
+entonces				then, at that time			Adv		
+exactamente				exactly			Adv		
+alrededor (de)				around			Adv		
+y entonces?				and then?			Expr		
+ahora				now			Adv		
+bien				well; good			Adv		
+absolutamente				absolutely			Adv		
+tampoco			tambien	also, too			Adv		
+menos				less, fewer			Adj Adv		
+principalmente				mainly, principally			Adv		
+aproximadamente				approximately			Adv		
+dónde				where			Pron		
+anteriormente				previously			Adv		
+así				like this; like that; thus; so		CZ: takhle	Conj Adv		
+todavía			a…	still, yet		CZ: stále/zatím	Adv		
+tan			tanto	so; so much; so many			Adv		
+posiblemente				possibly			Adv		
+después			s…	after			Adv		
+despacio			lentamente	slowly			Adv		
+más				more			Adv		
+prácticamente				practically			Adv		
+únicamente			solamente	only, solely			Adv		
+antes				before			Adv		
+generalmente				generally			Adv		
+normalmente				normally			Adv		
+nuevamente			de nuevo	newly, again			Adv		
+nunca			jamas	never			Adv		
+además				in addition, besides, furthermore			Adv		
+allá				there		far away	Adv		
+solamente			ú…	only			Adv		
+sólo				only, just			Adv		
+definitivamente				definitely			Adv		
+siempre				always			Adv		
+simplemente				simply			Adv		
+debajo				underneath			Adv		
+fácilmente				easily			Adv		
+finalmente				finally			Adv		
+supuesto, supuesta				supposed; assumed			Adv		
+necesariamente				necessarily			Adv		
+también			tampoco	also, too			Adv		
+naturalmente				naturally			Adv		
+apenas				hardly, barely			Adv		
+la pantalla táctil				touch screen			N	f	
+la bandera				flag			N	f	
+las tijeras				scissors			N	f	
+la regla				rule			N	f	
+la batería				battery			N	f	
+la nota				note			N	f	
+el vehículo				vehicle			N	m	
+la rueda				wheel		🇩🇪 die Runde	N	f	
+el alcohol				alcohol			N	m	
+la computadora				computer		Latin America	N	f	
+el dinero				money			N	m	
+la fuente				source; fountain			N	f	
+el documento				document			N	m	
+la pluma			el bolí	pen, feather			N	f	
+el reloj				clock, watch			N	m	
+la pieza				piece, part			N	f	
+la mochila				backpack			N	f	
+la bomba				bombpump			N	f	
+el papel				paper			N	m	
+la cámara				camera; chamber			N	f	
+el mapa				map			N	m	
+el bolígrafo				ballpoint pen			N	m	
+el polvo				powder, dust			N	m	
+la columna				column			N	f	
+el coche			a…	car, automobile, coach, carriage			N	m	
+la cadena				chain			N	f	
+el barco				ship, boat			N	m	
+el periódico			el diario	newspaper			N	m	
+el objeto				object; purpose			N	m	
+la bola				ball			N	f	
+el auto			el coche	car			N	m	
+la bicicleta				bicycle			N	f	
+la lista				list			N	f	
+el autobús				bus			N	m	
+el avión				airplane			N	m	
+la radio				radio			N	f	
+la página				page			N	f	
+el dólar				dollar			N	m	
+la máquina				machine			N	f	
+el tren				train			N	m	
+el aparato				device, gadget			N	m	
+la pantalla				screen			N	f	
+el puente				bridge			N	m	
+la tarjeta				card			N	f	
+la bomba de bicicleta				bicycle pump			N	f	
+la moneda				coin; currency			N	f	
+la caja				box			N	f	
+la cosa				thing			N	f	
+la campana				bell			N	f	
+la bolsa			la mochila	bag			N	f	
+el arma, la arma				weapon			N	m	
+la foto			la fotografía	photo			N	f	
+la revista				magazine			N	f	
+la copa			la taza	cup; drink			N	f	
+el teléfono celular			el móvil	cellphone			N	m	
+la botella				bottle			N	f	
+el motor				engine, motor			N	m	
+la maleta				suitcase			N	f	
+la moto				motorcycle			N	f	
+estar				to be		temporary qualities/states, location, feeling	V		
+ser				to be		permanent; used for lasting attributes	V		
+la calle				street			N	f	
+la casa				house			N	f	
+la ciudad				city			N	f	
+la escuela			c…	school			N	f	
+el patio				courtyard; playground			N	m	
+el terreno				ground, terrain			N	m	
+la agencia				agency			N	f	
+la capital				capital			N	f	
+la distancia				distance			N	f	
+la sala			el salón	living room, lounge			N	f	
+la frontera				border			N	f	
+el departamento				department; apartment			N	m	
+la esquina de la calle				the street corner			N	f	
+la nación				nation			N	f	
+la costa				coast			N	f	
+el salón			la sala	sitting room			N	m	
+la biblioteca				library			N	f	
+la ruta				route			N	f	
+el restaurante				restaurant			N	m	
+la zona			el área	area, zone			N	f	
+el pueblo				town, village			N	m	
+la institución				institution			N	f	
+la isla				island			N	f	
+la avenida				avenue			N	f	
+el cuarto				fourthroom			N	m	
+la pista				court; track; clue			N	f	
+el palacio				palace			N	m	
+el parque				park			N	m	
+el instituto				high school; institute			N	m	
+el hotel				hotel			N	m	
+el país				country			N	m	
+el puerto				harbor; port			N	m	
+la universidad				university; college			N	f	
+el territorio				territory			N	m	
+el castillo				castle			N	m	
+el banco				bank; bench			N	m	
+el lugar			el puesto	place			N	m	
+la plaza				square		location	N	f	
+la playa				beach			N	f	
+la galería				gallery			N	f	
+el jardín				garden			N	m	
+el oeste				west			N	m	
+la región				region			N	f	
+la colonia				colony; community; cologne			N	f	
+el hogar				home; fireplace			N	m	
+la patria				native country; motherland			N	f	
+la carretera				road, highway			N	f	
+la comunidad				community			N	f	
+el festival				festival			N	m	
+el aeropuerto				airport			N	m	
+la cárcel				jail; prison			N	f	
+la torre				tower			N	f	
+la hacienda				estate, ranch, plantation			N	f	
+el hospital				hospital			N	m	
+el bar				bar			N	m	
+la área			la zona	area			N	f	
+el continente				continent			N	m	
+el museo				museum			N	m	
+la oficina				office			N	f	
+el barrio				neighborhood			N	m	
+el edificio				building			N	m	
+el campesino, la campesina				peasant		CZ: rolník	N	m/f	
+el individuo, la individua				individual			N	m/f	
+el vecino, la vecina				neighbor			N	m/f	
+el ciudadano, la ciudadana				citizen			N	m/f	
+la víctima				victim			N	f	
+la audiencia				audience; hearing; court			N	f	
+la revolución				revolution			N	f	
+la población				population			N	f	
+el señor				mister, sir			N	m	
+la cultura				culture			N	f	
+la costumbre				habit, custom			N	f	
+el enemigo, la enemiga				enemy			N	m/f	
+la humanidad				humanity			N	f	
+la gente			las personas	people			N	f	
+el chico			el niño	boy			N	m	
+el turismo				tourism			N	m	
+el caballero				gentleman; knight			N	m	
+la pareja				couple; pair		people	N	f	
+el adulto, la adulta				adult			N	m/f	
+el matrimonio				marriagemarried couple			N	m	
+el amigo, la amiga				friend			N	m/f	
+el trabajador, la trabajadora			o…	worker			N	m/f	
+el testigo, la testigo				witness			N	m/f	
+la señora				madam, lady			N	f	
+el compañero, la compañera				partner, companion			N	m/f	
+la feria			la fiesta	fair; festival		🇬🇧 the fair	N	f	
+se				himself, herself, itself			Pron		
+la tonelada				ton		unit for weight	N	f	
+nueve			new	nine			Num		
+doce				twelve			Num		
+dos				two			Num		
+tres				three			Num		
+la mayoría				majority			N	f	
+doble				double			Adj		
+tercero, tercera				third			Adj		
+la mitad				half			N	f	
+millón				million			Num		
+el kilómetro				kilometer			N	m	
+el metro				meter (unit); subway; tape measure			N	m	
+mil				thousand			Num		
+trece				thirteen			Num		
+once				eleven			Num		
+cinco				five			Num		
+cuatro				four			Num		
+siete				seven			Num		
+seis				six			Num		
+el número			la cifra	number			N	m	
+ocho				eight			Num		
+diez				ten			Num		
+cuarenta				forty			Num		
+cincuenta				fifty			Num		
+sesenta				sixty			Num		
+setenta				seventy			Num		
+catorce				fourteen			Num		
+quince				fifteen			Num		
+veinte				twenty			Num		
+treinta				thirty (30)			Num		
+decidir				to decide			V		
+salir				to go out; to leave; to depart			V		
+llamar				to call			V		
+preguntar				to ask			V		
+recibir				to receiveto welcome			V		
+tú tomaste				you took			V		
+lograr			a… / p…	to achieve; to be able to			V		
+tú encontraste				you found			V		
+terminar			cerrar	to end; to break up			V		
+explicar				to explain			V		
+ellos/ellas escribieron				they wrote			V		
+pedir				to ask for, to request			V		
+obtener			conseguir	to get; to obtain			V		
+ellos/ellas obtuvieron			c…	they got			V		
+contestar			responder	to answer; to protest			V		
+comimos				we ate			V		
+caer				to fall			V		
+iniciar			comenzar / empezar	to start; to begin; to initiate			V		
+conseguir			obtener	to get; to obtain			V		
+intentar			tratar / probar	to try			V		
+tú consideraste				you considered			V		
+considerar				to consider			V		
+negar		"🇬🇧 ""negation"""		to deny			V		
+sacar				to remove; to get; to receiveto serve (tennis)			V		
+sentir				to feelto be sorry; to sympathize			V		
+perder				to lose			V		
+ganar				to win			V		
+alcanzar			l…	to reach, to catch up with, to achieve			V		
+ofrecer				to offer			V		
+insistir				to insist			V		
+ellos/ellas quisieron				they wanted, they liked, they loved			V		
+llover				to rain			V		
+ellos/ellas respondieron			c…	they answered, they replied			V		
+responder			c…	to answer; to reply			V		
+recién				just, recently, newly			Adv		
+siquiera			p…	at least, even			Adv		
+ellos/ellas llegaron				they arrived			V		
+ellos/ellas quedaron				they stayed			V		
+tú diste				you gave			V		
+comprar				to buy, to purchase			V		
+esperar				to wait; to hope; to expect			V		
+necesitar			r…	to need, to require			V		
+descansar				to rest			V		
+andar			caminar	to walk; to travel by			V		
+levantar				to pick up, to lift, to raise			V		
+rechazar			rehusar	to reject; to refuse			V		
+trabajar			o…	to work			V		
+cortar				to cut			V		
+ocupar				to take up, to occupy			V		
+manejar				to operate; to handle; to wieldto drive			V		
+interesar				to concern; to be of interest			V		
+entender			comprender	to understand			V		
+derrotar				to defeat			V		
+costar			valer	to cost			V		
+gastar				to spend			V		
+valer			costar	to cost; to be worth			V		
+contener				to contain			V		
+reconocer				to recognize			V		
+vivir				to live			V		
+añadir			s…	to add			V		
+permitir			d…	to allow, to permit			V		
+utilizar			usar	to use			V		
+usar			utilizar	to use			V		
+tratar			intentar	to try			V		
+pertenecer				to belong to			V		
+creer				to believe			V		
+parar			terminar / acabar / finir	to stop			V		
+poseer			t…	to have, to own			V		
+continuar				to continue			V		
+mezclar				to mix			V		
+reservar				to book; to reserve			V		
+expresar				to express			V		
+crear				to create			V		
+poner			colocar	to put, to place			V		
+regresar			volver	to return			V		
+salvar				to save; to rescue			V		
+dudar				to doubt			V		
+llenar				to fill, to fill up			V		
+odiar				to hate			V		
+saltar				to jump			V		
+secar				to dry			V		
+observar				to observe; to notice; to remark			V		
+pasar			s…	to pass; to happen			V		
+consultar				to consult			V		
+volar				to fly; to explode			V		
+cantar				to sing			V		
+tirar			l…	to throw; to pull			V		
+curar				to cure; to heal			V		
+girar			volver	to turn; to spin			V		
+desear			q…	to want, to desire			V		
+dejar		is a synonym of salir		to leave; to allow; to let			V		
+mejorar				to improve			V		
+afectar				to affect			V		
+resolver				to solve; to resolve			V		
+producir				to produce			V		
+evitar			impedir	to avoid; to prevent			V		
+realizar			hacer	to do; to make; to fulfill			V		
+mantener				to maintain; to keep		not guardar	V		
+cambiar				to change			V		
+establecer				to establish			V		
+morir				to die			V		
+alquilar				to rent	(e.g. a car)		V		
+despertar				to wake up			V		
+partir			dejar	to divideto leave			V		
+repetir				to repeat			V		
+reducir				to reduce, to decrease			V		
+olvidar				to forget			V		
+comprender			entender	to understand, to comprehend			V		
+demostrar				to demonstrate; to prove			V		
+controlar				to control			V		
+defender				to defend			V		
+vender				to sell			V		
+aplicar				to apply			V		
+descubrir				to discover, to invent; to reveal			V		
+aprender				to learn			V		
+superar				to overcome			V		
+recuperar				to recover; to regain, to retrieve			V		
+elegir				to choose, to select; to elect			V		
+escuchar				to actively listen			V		
+abandonar				to abandon; to leave			V		
+aumentar				to increase			V		
+París				Paris			Name		
+Roma				Rome			Name		
+América				America			Name		
+Europa				Europe			Name		
+China				China			Name		
+Inglaterra				England			N	f	
+español, española				Spanish			Adj		
+inglés, inglesa				English			Adj		
+cubano, cubana				Cuban			Adj		
+estadounidense			americano	American			Adj		
+extranjero, extranjera				foreign			Adj		
+México				Mexico			Name		
+España				Spain			N	f	
+Francia				France			Name		
+Argentina				Argentina			Name		
+francés, francesa				French			Adj		
+norteamericano, norteamericana				North American			Adj		
+internacional				international			Adj		
+europeo, europea				European			Adj		
+italiano, italiana				Italian			Adj		
+mexicano, mexicana				Mexican			Adj		
+argentino, argentina				Argentinian			Adj		
+chino, china				Chinese			Adj		
+británico, británica				British			Adj		
+americano, americana			estadounidense	American			Adj		
+independiente				independent			Adj		
+extraño, extraña				strange			Adj		
+ideal				ideal			Adj		
+múltiple				multiple			Adj		
+máximo, máxima				maximum			Adj		
+amplio, amplia				wide, roomy, spacious			Adj		
+numeroso, numerosa				numerous, many			Adj		
+intelectual				intellectual			Adj		
+loco, loca				crazy			Adj		
+antiguo, antigua				ancient			Adj		
+dulce				sweet			Adj		
+similar			se… / p…	similar			Adj		
+moderno, moderna				modern			Adj		
+común				common, ordinary			Adj		
+puro, pura				pure			Adj		
+oscuro, oscura				dark			Adj		
+formal				formal			Adj		
+enfermo, enferma				sick			Adj		
+cansado, cansada				tired			Adj		
+libre			g…	free			Adj		
+profundo, profunda				deep; profound			Adj		
+presente				present			Adj		
+limpio, limpia				clean			Adj		
+elevado, elevada				high, elevated			Adj		
+escaso, escasa			r…	scarce, rare			Adj		
+previo, previa			a…	previous, former			Adj		
+pendiente				pending			Adv		
+eléctrico				electric			Adj		
+vivo, viva				alive			Adj		
+difícil				difficult			Adj		
+básico, básica				basic			Adj		
+perfecto, perfecta				perfect			Adj		
+consciente				conscious			Adj		
+sencillo, sencilla			simplamente	simple			Adj		
+tranquilo, tranquila				tranquil; quiet; calm			Adj		
+legal				legal			Adj		
+excelente				excellent			Adj		
+abierto, abierta				open			Adj		
+disponible				available			Adj		
+sucio, sucia				dirty			Adj		
+regular				regular			Adj		
+especial				special			Adj		
+adecuado, adecuada				appropriate; adequate			Adj		
+original				original			Adj		
+perdido, perdida				lost			Adj		
+industrial				industrial			Adj		
+verdadero, verdadera			c…	true			Adj		
+interesante				interesting			Adj		
+universal				universal			Adj		
+superior				superior			Adj		
+lógico, lógica				logical			Adv		
+mundial				worldwide; global			Adj		
+nacional				national			Adj		
+ácido, ácida				sour			Adj		
+infantil				childish			Adj		
+privado, privada				private			Adj		
+mínimo, mínima				minimum			Adj		
+femenino, femenina				female, feminine			Adj		
+brillante			claro	bright			Adj		
+negativo, negativa				negative			Adj		
+terrible				terrible			Adj		
+revolucionario, revolucionaria				revolutionary			Adj		
+conveniente				convenient			Adj		
+inmediato, inmediata				immediate			Adj		
+particular				particular			Adj		
+clásico, clásica				classic			Adj		
+eficaz			efectivo	effective			Adj		
+famoso, famosa				famous			Adj		
+débil			f…	weak			Adj		
+probable				probable			Adj		
+igual				equal			Adj		
+mí				me			Pron		
+esto				this		non-gendered	Pron		
+uno				one			Pron Num		
+nada				nothing			Adv		
+conmigo				with me			Pron		
+alguien				someone; anyone			Pron		
+varios, varias				various			Adj		
+algo				something; anything			Pron		
+nadie			ningún	no one			Pron		
+el sur				south			N	m	
+el norte				north			N	m	
+el viaje				journey			N	m	
+la orientación				orientation			N	f	
+el fin de semana				weekend			N	m	
+el fin			t…	end			N	m	
+la señal				sign; signal			N	f	
+la dirección				address; direction			N	f	
+los pasos				steps; paces			N	m	
+el rumbo			el curso / la direcció	course; direction			N	m	
+la llegada				arrival			N	f	
+la búsqueda				search			N	f	
+el exterior			el frente	outside; exterior			N Adj	m	
+la salida				exit; output			N	f	
+la posición			el puesto	position; stance			N	f	
+la entrada				entrance			N	f	
+el lado				side			N	m	
+el centro				center			N	m	
+la derecha				right		direction	N	f	
+la izquierda				left		direction	N	f	
+el tráfico				traffic			N	m	
+el juego			p…	game			N	m	
+la ausencia				abscence			N	f	
+la clase				class			N	f	
+la tarea				homework; task			N	f	
+el curso			el rumbo / cl…	course			N	m	
+el capítulo				chapter; episode			N	m	
+el grado				grade; degree			N	m	
+el material				material			N	m	
+la lectura				reading			N	f	
+la sección				section			N	f	
+la inteligencia				intelligence			N	f	
+la discusión			a…	discussion; argument			N	f	
+el conocimiento				knowledge			N	m	
+la facultad				faculty			N	f	
+la academia				academy			N	f	
+el estudio				studiostudy			N	m	
+el colegio			la escuela	college; school			N	m	
+la educación				education			N	f	
+el nivel				level			N	m	
+el problema				problem			N	m	
+el ejemplo				example			N	m	
+la historia				story; history			N	f	
+sumar			añadir	to add; to join			V		
+el título				title; degree; diploma			N	m	
+la respuesta				response; answer			N	f	
+la construcción				construction			N	f	
+la red				net; network			N	f	
+la práctica				practice			N	f	
+el arte, la arte				art			N	m/f	
+la obra			el trabajo	work; deed			N	f	
+la acción				action			N	f	
+la verdad			h…	truth; fact			N	f	
+el nombre				name; noun			N	m	
+la información				information			N	f	
+el crecimiento				growth			N	m	
+el servicio				service			N	m	
+el pensamiento				thought			N	m	
+el término			el fin	end; term; time period			N	m	
+la visión			la vista	vision; eyesight			N	f	
+la aplicación				application			N	f	
+la consciencia				conscience			N	f	
+la creación				creation			N	f	
+la selección				selection			N	f	
+el acceso				access			N	m	
+la calidad de servicio				the quality of service			N	f	
+el carácter			el personaje	character; personality			N	m	
+el programa				program			N	m	
+la calidad				quality of manufacturing			N	f	
+la investigación				research; investigation			N	f	
+la necesidad				need, necessity			N	f	
+la capacidad				capacity			N	f	
+el efecto				effect			N	m	
+la posibilidad				possibility			N	f	
+el código				code			N	m	
+la frecuencia				frequency			N	f	
+el principio				beginning; principle			N	m	
+el peligro				danger			N	m	
+la protección				protection			N	f	
+el propósito				purpose			N	m	
+el tiempo				timeweather			N	m	
+la expresión				expression			N	f	
+el oficial				official; officer			N	m	
+la memoria				memory			N	f	
+la altura			e…	height			N	f	
+el origen				origin			N	m	
+el juicio			el proceso	trial; judgment			N	m	
+el contenido				content; contents			N	m	
+la realidad				reality			N	f	
+el cambio				change			N	m	
+el asunto				issue; matter; subject; business; affair			N	m	
+la ocasión				occasion			N	f	
+la mirada				look; glance			N	f	
+el aspecto			m…	aspect; appearance			N	m	
+buena suerte				good luck			Expr		
+la suerte				luck			N	f	
+la paz				peace			N	f	
+la producción				production			N	f	
+las circunstancias				circumstances			N	f	
+el sector				sector			N	m	
+la escena				scene			N	f	
+la imagen				image			N	f	
+la actividad				activity			N	f	
+el movimiento				movement			N	m	
+el personaje, la personaje			el caracter	character			N	m/f	
+el objetivo				objective			N	m	
+la importancia				importance			N	f	
+el resultado				result			N	m	
+el control				control			N	m	
+la edad				age		time period	N	f	
+el grupo				group; band			N	m	
+la competencia				competition			N	f	
+el éxito				success			N	m	
+el tipo				type; kind			N	m	
+herido, herida				hurt; injured; wounded			Adj		
+detener				to detain			V		
+detenido, detenida				detained; arrested			Adj		
+el conocido, la conocida				acquaintance			N	m	
+seguido, seguida				followed			Adj		
+dedicado, dedicada				dedicated			Adj		
+sentar				to sit			V		
+publicar				to publish			V		
+herir			doler	to hurt; to injure; to wound			V		
+hecho, hecha				done			V Adj		
+cocinado, cocinada				cooked			Adj		
+el humor				mood			N	m	
+El placer es mío.				The pleasure is mine.			N	m	
+el dolor				pain		physical	N	m	
+la personalidad				personality			N	f	
+la esperanza				hope			N	f	
+el temor			m…	fear; dread			N	m	
+la sorpresa				surprise			N	f	
+el placer				pleasure			N	m	
+la soledad				loneliness			N	f	
+el sentimiento				feeling		emotional	N	m	
+triste				sad			Adj		
+el deseo				desire			N	m	
+la curiosidad				curiosity			N	f	
+la satisfacción				satisfaction			N	f	
+la celebración				celebration			N	f	
+nervioso, nerviosa				nervous			Adj		
+la felicidad			la alegría	happiness			N	f	
+la sonrisa				smile			N	f	
+la tensión				tension			N	f	
+la amistad				friendship			N	f	
+la alegría			la felicidad	joy; happiness; recklessness			N	f	
+el amor				love			N	m	
+feliz			contento	happy			Adj		
+el miedo			el temor	fear			N	m	
+suponer			imaginar	to suppose; to imagine			V		
+determinar				to determine			V		
+obligar			forcar	to force; to oblige			V		
+forzar			obligar	to force			V		
+enviar			m…	to send			V		
+haber			tener	to have		perfect tense verb	V		
+sufrir				to suffer			V		
+prever			anticipar	to anticipate; to forecast; to foresee			V		
+nacer				to be born			V		
+dirigir			manejar	to run; to manage; to lead; to direct			V		
+el humo				smoke			N	m	
+la célula				cell		biology	N	f	
+el hueso				bone			N	m	
+el cepillo de dientes				toothbrush			N	m	
+la flor				flower			N	f	
+el árbol				tree			N	m	
+el pasto			c… / el hierbo	grass			N	m	
+la luna				moon			N	f	
+el cielo				sky			N	m	
+la naturaleza				nature			N	f	
+la especie				species			N	f	
+el gas				gas		not gasoline	N	m	
+hoy hace calor				it is hot today			Expr		
+el fuego				fire, flame, heat			N	m	
+el río				river			N	m	
+el bosque				forest; woods			N	m	
+el espacio				space		acuerda de «el espacio entre nosotros»	N	m	
+la rosa				rose			N	f	
+el ambiente				environment; atmosphere; ambience			N	m	
+el viento				wind			N	m	
+el monte				hill; woodland; mountain			N	m	
+el clima			el tiempo	weather; climate			N	m	
+el mundo				world			N	m	
+el campo				field			N	m	
+la estrella				star			N	f	
+la evolución				evolution			N	f	
+el paisaje				scenery; landscape			N	m	
+el calor				heat			N	m	
+el sol				sun			N	m	
+la lluvia				rain			N	f	
+la luz				light			N	f	
+la tierra				earth; land			N	f	
+el volcán				volcano			N	m	
+el universo				universe			N	m	
+el planeta				planet			N	m	
+el mar				sea			N	m	
+la piedra			r…	stone; rock			N	f	
+la hoja				leaf; sheet	(of paper)		N	f	
+el aire				air			N	m	
+la madera				wood			N	f	
+la planta				plant			N	f	
+el diente				tooth			N	m	
+el reloj de arena				hourglass			N	m	
+la arena				sand			N	f	
+el cerebro				brain			N	m	
+la montaña				mountain			N	f	
+la raíz				root			N	f	
+la misión				mission			N	f	
+el canal				canal; channel			N	m	
+la presentación				presentation			N	f	
+la caída				fall; drop			N	f	
+las consecuencias				consequences			N	f	
+el compromiso				commitment; engagement			N	m	
+la crítica				criticism; critique			N	f	
+la excepción				exception			N	f	
+el ruido			s…	noise			N	m	
+la definición				definition			N	f	
+el sueño				dream			N	m	
+la sesión				session			N	f	
+el significado				meaning; significance			N	m	
+la relación				relationship			N	f	
+la ceremonia				ceremony			N	f	
+la pérdida				waste			N	f	
+la distribución				distribution			N	f	
+la versión				version			N	f	
+la situación				situation			N	f	
+la unión				union			N	f	
+la perspectiva				perspective			N	f	
+el puesto			el lugar / la posición	place; position			N	m	
+el esfuerzo				effort			N	m	
+la presencia				presence			N	f	
+la edición				edition			N	f	
+la decisión				decision			N	f	
+el margen				margin			N	m	
+la división				division			N	f	
+el orden				order			N	m	
+el fracaso				failure			N	m	
+la pausa				pause; break			N	f	
+la extensión			a… / p…	extension; extent			N	f	
+la propuesta				proposal			N	f	
+el motivo				motive			N	m	
+el impacto				impact			N	m	
+la concentración				concentration			N	f	
+la intensidad				intensity			N	f	
+la belleza				beauty			N	f	
+la categoría				category			N	f	
+la continuación				continuation			N	f	
+la sombra				shadow			N	f	
+el error				error			N	m	
+el comportamiento				behavior			N	m	
+el gesto				gesture			N	m	
+la unidad				unit; unity			N	f	
+la intención				intention			N	f	
+la influencia				influence			N	f	
+la preocupación				concern; worry			N	f	
+el factor				factor			N	m	
+la experiencia				experience			N	f	
+la conducta				conduct			N	f	
+el honor				honor			N	m	
+la identidad				identity			N	f	
+el recurso				resource			N	m	
+construir				to construct, to build			V		
+formar				to form			V		
+comprobar				to check			V		
+desarrollar				to develop			V		
+participar				to participate			V		
+actuar				to act			V		
+matar				to kill			V		
+romper				to break			V		
+existir				to exist			V		
+preparar				to prepare			V		
+impedir				to prevent; to hinder			V		
+eliminar				to eliminate; to be eliminated			V		
+atender				to pay attention, to look after			V		
+subir				to go up, to climb, to get on			V		
+analizar				to analyze			V		
+colocar			poner	to put, to place, to locate			V		
+definir				to define			V		
+cubrir				to cover			V		
+asumir				to assume			V		
+los deportes				sports			N	m	
+el fútbol				soccer			N	m	
+el estadio				stadium			N	m	
+el equipo				team; equipment			N	m	
+la liga				league			N	f	
+el descenso			b…	descent			N	m	
+el campeonato				championship			N	m	
+el campeón, la campeona				champion			N	m	
+la carrera				race		sports	N	f	
+el jugador, la jugadora				player			N	m	
+el torneo				tournament			N	m	
+el gol				goal		sports	N	m	
+el ejercicio				exercise			N	m	
+la depresión				depression			N	f	
+el virus				virus			N	m	
+la dieta			a…	diet			N	f	
+la emoción			s…	emotion			N	f	
+la presión arterial				blood pressure			N	f	
+el órgano				organ			N	m	
+la condición				condition			N	f	
+el diagnóstico				diagnosis			N	m	
+el ojo				eye			N	m	
+el cuello				neck			N	m	
+la pierna				leg			N	f	
+el cuerpo				body			N	m	
+el tratamiento				treatment		medical	N	m	
+doler			herir	to hurt, to ache			V		
+el hombro				shoulder			N	m	
+la salud				health			N	f	
+la ayuda				help; aid			N	f	
+la enfermedad			a… / d…	disease; illness			N	f	
+el corazón				heart			N	m	
+el dedo				toe; finger			N	m	
+grave			serioso	serious			Adv		
+el remedio			m…	remedy			N	m	
+la proteína				protein			N	f	
+el oído				ear		internal	N	m	
+la oreja				ear		external	N	f	
+el brazo				arm			N	m	
+el cadáver				corpse; cadaver			N	m	
+la clínica				clinic			N	f	
+muerto, muerta				dead			Adj		
+la circulación				circulation			N	f	
+la mente				mind			N	f	
+el olor				odor; smell			N	m	
+la rodilla				knee			N	f	
+la sangre				blood			N	f	
+la cabeza				head			N	f	
+la espalda				back			N	f	
+la cara			r…	face			N	f	
+salud				cheers			Expr		
+la nariz				nose			N	f	
+los labios				lips			N	m	
+el codo				elbow			N	m	
+la dosis				dose			N	f	
+la presión				pressure			N	f	
+la medicina			r…	medicine			N	f	
+el síntoma				symptom			N	m	
+el médico, la médica				doctor			N	m/f	
+la emergencia				emergency			N	f	
+la operación			f…	operation			N	f	
+el riesgo				risk			N	m	
+la boca				mouth			N	f	
+el pelo			c… / v…	hair			N	m	
+el dolor de estómago			la barriga	stomach ache			N	m	
+la ambulancia				ambulance			N	f	
+el pie				foot			N	m	
+la mano				hand			N	f	
+la lengua				tongue			N	f	
+el pecho				chest		body part	N	m	
+la frente				forehead			N	f	
+la piel			c…	skin; fur; leather			N	f	
+el estómago			b…	stomach			N	m	
+la tarjeta de crédito				credit card			N	f	
+el valor				value			N	m	
+la deuda				debt			N	f	
+el crédito				credit			N	m	
+la fortuna			s…	fortune			N	f	
+la venta			r…	sale			N	f	
+el hombre de negocios				businessman			N	m	
+Los negocios son los negocios.				Business is business.			N	m	
+los negocios			e…	business			N	m	
+el precio			c…	price			N	m	
+la cifra			la suma / el número / la figura	figure; number; sum			N	f	
+la industria				industry			N	f	
+el costo			p…	cost			N	m	
+la negociación				negotiation			N	f	
+la economía				economy			N	f	
+económico, económica			b…	economical; thrifty; cheap			Adj		
+la propiedad				property			N	f	
+el ingreso				income			N	m	
+el producto			f…	product			N	m	
+la promoción			a… / f… / o…	promotion			N	f	
+el porcentaje				percentage			N	m	
+la cuenta				account; bill		finance	N	f	
+el ejecutivo, la ejecutiva				executive		person	N	m	
+el interés				interest			N	m	
+la tasa			c… / los impuestos	rate; tax; fee			N	f	
+el comercio			los negocios	commerce; trade; business			N	m	
+el contrato				contract			N	m	
+la oferta				offer			N	f	
+la inflación				inflation			N	f	
+la conferencia			el congreso	conference			N	f	
+el mercado				market			N	m	
+la empresa			el compañero	company; place of business			N	f	
+la reunión			a… / j…	meeting			N	f	
+el oro				gold		metal	N	m	
+la inversión				investment			N	f	
+la junta			a… / r…	board; meeting; assembly			N	f	
+la compañía			la empresa	company; place of business			N	f	
+el artículo				article			N	m	
+la prensa				press			N	f	
+el lenguaje			i…	language			N	m	
+el mensaje			r…	message			N	m	
+el grito				scream; shout; cry			N	m	
+la llamada				call			N	f	
+las noticias				news			N	f	
+el contacto				contact			N	m	
+el secreto				secret			N	m	
+la voz				voice			N	f	
+la palabra				word			N	f	
+la comunicación				communication			N	f	
+la conversación			p…	conversation			N	f	
+el silencio				silence			N	m	
+la postal			la tarjeta postal	postcard			N	f	
+el comentario				commentary			N	m	
+la estampilla			t… / s…	stamp			N	f	
+el editorial				editorial			N	m	
+la frase			e…	phrase			N	f	
+la publicidad				publicity			N	f	
+el/la internet				internet			N	mf	
+el argumento			d… / p… / r…	argument			N	m	
+la entrevista				interview			N	f	
+el destino				destiny			N	m	
+la iglesia			el templo	church			N	f	
+la cruz			el cruce	cross			N	f	
+santo, santa			sagrado	holy			Adj		
+católico, católica				catholic			Adj		
+la religión				religion			N	f	
+el dios				god			N	m	
+el ángel				angel			N	m	
+la vida				life			N	f	
+la tradición				tradition			N	f	
+religioso, religiosa				religious			Adj		
+la fe				faith			N	f	
+el alma				soul			N	f	
+el espíritu				spirit			N	m	
+el teatro			c…	theater			N	m	
+el estilo				style			N	m	
+la literatura				literature			N	f	
+la poesía				poetry			N	f	
+la música				music			N	f	
+el cine				cinema; movie theater			N	m	
+el ritmo				rhythm			N	m	
+la danza			b…	dance			N	f	
+la película			f…	movie			N	f	
+el escenario			t…	stage; setting			N	m	
+el espectáculo			a…	show; performance			N	m	
+el disco				disk; record			N	m	
+la pintura			el color	paint; painting			N	f	
+la fotografía			la foto	photograph			N	f	
+la letra				letter		of the alphabet	N	f	
+la actuación			r… / e… / i…	performance; acting			N	f	
+el cuadro			la pictura	painting; picture; frame; square			N	m	
+la pasión				passion			N	f	
+la novela				novel; book			N	f	
+la ópera				opera			N	f	
+la orquesta				orchestra			N	f	
+la moda				fashion			N	f	
+el sonido			el ruido	sound			N	m	
+el violín				violin			N	m	
+el instrumento				instrument			N	m	
+la flauta				flute			N	f	
+el concierto				concert			N	m	
+la arquitectura				architecture			N	f	
+la canción			el canto	song			N	f	
+Más puede la pluma que la espada.				the pen is mightier than the sword			Expr		
+Perro que ladra no muerde.				A barking dog does not bite.			Expr		
+Mala hierba nunca muere.				A bad weed never dies.			Expr		
+Ojos que no ven, corazón que no siente.				Out of sight, out of mind.			Expr		
+más vale tarde que nunca				better late than never			Expr		
+Borrón y cuenta nueva.				Let bygones be bygones.			Expr		
+No hay rosas sin espinas.				Every rose has its thorn.			Expr		
+De tal palo tal astilla.				Like father, like son.			Expr		
+Camarón que se duerme, se lo lleva la corriente.				You snooze, you lose. Move your feet, lose your seat.			Expr		
+No todo lo que brilla es oro.				All that glitters is not gold.			Expr		
+Una olla vigilada jamás hierve.			quién espera desespera	A watched pot never boils.			Expr		
+Barriga llena, corazón contento.				Full belly, happy heart.			Expr		
+El amor todo lo puede.				Love will find a way.			Expr	m	
+Cada loco con su tema.				To each their own			Expr		
+Mucho ruido y pocas nueces.				All talk and no action.			Expr		
+Donde fuego se hace, humo sale.				Where there's smoke, there's fire.			Expr		
+El amor es ciego, pero los vecinos no.				Love is blind, but the neighbors ain't.			N	m	
+Soldado avisado no muere en guerra.				Forewarned is forearmed.			Expr		
+En boca cerrada no entran moscas.			oro	Silence is golden.			Expr		
+Cuentas claras, amistades largas.				Good fences make good neighbors.			Expr		
+Consejos vendo y para mí no tengo				Do as I say, not as I do.			Expr		
+En casa de herrero, cuchillo de palo.				The shoemaker's son always goes barefoot.			Expr		
+Más sabe el diablo por viejo que por diablo.				More knows the devil for being old than for being the devil. Wisdom comes with age.			Expr		
+No se puede servir a Dios y al diablo.				No man can serve two masters.			Expr		
+En tierra de ciegos, el tuerto es el rey.				In the land of the blind, the one-eyed is king.			Expr		
+atrá			pasado	behind, past, in the past			Adj		
+el buñuelo				fritter		Christmas snack	N	m	
+contar con				to count on			V Expr		
+estar por				to be about to			V Expr		
+Las palabras se las lleva el viento.				Actions speak louder than words.			Expr		
+Quién espera desespera.			Una olla vigilada jamás hierve.	A watched pot never boils.			Expr		
+el herrero				blacksmith			N	m	
+el color				colour			N	m	
+ciego				blind			Adj N		
+bailar			danzar	to dance			V		
+buenas tardes				good evening			Expr		
+la prenda			el vestido	dress			N	f	
+la cumbre				peak			N	f	
+la seta				muchroom			N	f	
+las lentejas				lentils			N	f	
+el jamón				ham			N	f	
+o sea				in other words, that is to say			Expr		
+me da igual				I do not care			Expr		
+meterse				to pick on, to go into, to mess with			V		
+las gallinas				hen			N	f	
+la granja				farm			N	f	
+el ave				poultry		"Feminine nouns that begin with a stressed ""a-"" or ""ha-"" sound in Spanish use the definite article ""el"" in the singular."	N	f	
+la oca				goose			N	f	
+rezar				to pray			V		
+el faisán				pheasant			N	m/f	
+aportar			contribuir 	contribute			V		
+el/la adivino				fortune-teller			N	m/f	
+el sabor				flavour			N	m	
+brindar				to offer, to bring			V		
+estoy que me muero				I'm dying			Expr		
+rallar				to grate eg. cheese			V		
+por si acaso				just in case			Expr		
+encima				on top, above			Adv		
+mañoso				crafty, skillful			Adj		
+despiezar				to tear into pieces			V		
+el muslo				thigh			N	m	
+el culo				butt, ass, asshole			N	m	
+desplumar				to shed feathers			V		
+cuidar			atender 	to take care of, to look after, to pay attention			V		
+sobrar				to be left over, to not be needed			V		
+el puerro				leek			N	m	
+la olla				pot			N	f	
+guapo				handsome			Adj		
+intuir				to sense			V		
+el guiso				stew			N	m	
+la carcasa				framework, casing			N	f	
+aprovechar				to take advantage of, to make the most of			V		
+espabilar			despiertar	to wake up			V		
+el fondo				the lowest part, the bottom			N	m	
+optar				to opt for, to decide on			V		
+resbalar				to slip, to skid			V		
+musitar				to mutter, to whisper			V		
+la receta				recipe			N	f	
+la pechuga				breast			N	f	
+petarlo				to hit it out of the park			V		
+el caldo				broth			N	m	
+cagar				to shit			V		
+el cagón				shitty, a person who shits a lot			N	m/f	
+confiar				to trust, to confide			V		
+la ciruela				plum			N	f	
+hervir				to boil			V		
+la vendura			el vegetal	vegetable			N	f	
+marcar				to mark			V		
+guisar			cocinar	to cook			V		
+resaltar				to stand out, to highlight			V		
+el fallo				mistake, ruling, error			N	m	
+divino				divine, wonderful, lovely			Adj		
+la remolacha				beetroot			N	f	
+envasar				to package			V		
+a tope			gravemente	seriously			Expr		
+seco				dry			Adj		
+chamuscado				scorched, burnt			Adj		
+apañar				to fix			V		
+joder				to fuck, to screw up			V		
+catar			gustar	to taste			V		
+sonrojar				to blush, to redden			V		
+soso				dull, tasteless			Adj		
+orgulloso				proud			Adj		
+gordo				fat, thick			Adj		
+emocionante				exciting, thrilling, touching			Adj		
+el desatino				blunder, mistake, foolish action, error			N	m	
+el ataque				attack			N	m	
+temer				to fear			V		
+evidentemente			obviamente	obviously			Adv		
+sea lo que sea				whatever it is			Expr		
+esconder				to hide			V		
+la harina				flour			N	f	
+la avena				oatmeal			N	f	
+la avellana				hazelnut			N	f	
+la almendra				almond			N	f	
+el anacardo				cashew			N	m	
+el nuez				nut			N	f	
+el lino				flax, linen (🇨🇿: len)			N	m	
+el castaño				chestnut (🇨🇿: kaštan)			N	m	
+la prueba				test, proof			N	f	
+bautizar				to baptise			V		
+casado				married			Adj		
+tras				after (indicating repetition)			Prep		
+el desastre				disaster			N	m	
+la repostería				bakery, pastry shop			N	f	
+fresco, fresco				cool, fresh			Adj		
+el ganador		opposite of perdedor		winner			N	m/f	
+salado				salty			Adj		
+el caño				pipeline			N	m	
+el consejo				advice			N	m	
+lustroso				shiny			Adj		
+el bolsillo				pouch			N	m	
+molar				to be cool, to be great			v		
+el mazacote				lumpy mess			N	m	
+la cruda				hangover			N	f	
+la masa				mass, crowd, dough, pastry			N	f	
+no se hable más				don't say no more			Expr		
+vencer				to overcome			V		
+en marcha				let's go			Expr		
+acertar				to get right, to guess correctly			V		
+naufragar				to sink			V		
+el buque			el barco	vessel, ship			N	m	
+estallar				to explode, to burst			V		
+temar				to be obsessed with			V		
+el socorro			la ayuda 	help			N	m	
+estar herido				to be injured			V		
+tragar				to swallow			V		
+dentro de poco			pronto	soon			Expr		
+enchufarse				to plug in			V		
+borracho, borracha				drunk			Adj		
+soltar				to let go, to loosen			V		
+la vaina				thing (of unknown name)			N	f	
+descontrolar				to make lose control			V		
+apagar				to turn off			V		
+prendar				to enchant			V		
+amanecer				to wake up to stay up all night to dawn			V		
+chocar				to crash			V		
+la proyección			el espectáculo 	showing, screening, projection			N	f	
+disfrazado, disfrazada				disguised, hidden, dressed up as			Adj		
+disfrazar				to disguise as			V		
+la esquizofrenia				schizophrenia			N	f	
+el milagro				miracle			N	m	
+la certeza				certainty			N	f	
+la duda				doubt, question			N	f	
+la cualidad				quality of characteristics			N	f	
+agregar			añadir	to add, to incorporate			V		
+brevemente				briefly			Adv		
+calmar				to calm			V		
+padecer				to suffer from to endure			V		
+enfriar				to cool			V		
+la conciencia				awareness			N	f	
+unir				to bind, to join			V		
+consentir			permitir	to allow			V		
+divino, divina				divine, heavenly, delightful			Adj		
+inefable				indescribable			Adj		
+encerrar				to lock up			V		
+apoyar				to support			V		
+zarpar				to set sail			V		
+el retrato				portrait			N	m	
+la deshonra				dishonor			N	f	
+abundar				to be abundant			V		
+la ceniza			el polvo	ash, dust			N	f	
+arrepentir				to regret to change one's mind			V		
+el granizo				hail, hailstone (weather)			N	m	
+la cinta				ribbon, strip, tape			N	f	
+la orilla				shore, bank, edge			N	f	
+bendecir				to bless			V		
+el lío				mess			N	m	
+avaro, avara				miserly, miser			Adj		
+el bocado				bite			N	m	
+desenfrenar				to go wild			V		
+torpe				clumsy, slow, dim, awkward			Adj		
+envidioso, envidiosa				envious			Adj		
+salpicar				to splash, to sprinkle, to taint			V		
+el imán				magnet			N	m	
+maldito, maldita		equivalent to mal + dicho		darn, damn			Adj		
+quejoso, quejosa				whiny			Adj		
+bocón				bigmouthed, boastful			Adj		
+arriesgar				to risk			V		
+el hechizo				spell			N	m	
+el soplo				blow, puff, gust			N	m	
+el heuco				hole			N	m	
+desgastar				to wear away, to use up			V		
+jurar			prometir	to swear, to promise			V		
+lastimarse				to hurt oneself			V		
+envuelto, envuelta				wrapped up			Adj		
+escoger			elegir	to choose, to pick, to elect			V		
+el impedimento				obstacle, hinderance			N	m	
+renunciar				to resign, to quite, to revoke			V		
+prender				to turn on, to light			V		
+rehusar			rechazar	to refuse, reject			V		
+abajo				down			Adv		
+acallar				to silence			V		
+el afán				eagerness			N	m	
+agrupar				to group			V		
+el alcance				reach			N	m	
+allende				beyond			Prep		
+anhelar			ansiar	to long for, to crave (sth not very possible)			V		
+ansiar			anhelar	to long for, to crave (sth possible)			V		
+el antojo				craving			N	m	
+apetecer			disfrutar 	to feel like, enjoy			V		
+arrastrar				to drag			V		
+basta			suficiente 	enough			Conj		
+el cabo				cape			N	m	
+la caza				hunting			N	f	
+cesar				to cease			V		
+casado, casada				married			Adj		
+el vertedero				chute			N	m	
+el cohete				rocket			N	m	
+el comité				committee			N	m	
+la cotidianidad				everyday life			N	f	
+crujiente				crunchy			Adj		
+la cómoda				chest of drawers			N	f	
+el/la cónyuge			el esposo, la esposa, el marido	spouse			N	m/f	
+deprisa			rápido 	fast			Adv		
+derrumbar				to demolish			V		
+destacar				to emphasize			V		
+desvanecer				to dispel			V		
+devorar				to devour			V		
+diminuto			pequeño	tiny			Adj		
+diseñar				to design			V		
+dorado, dorada				golden			Adj		
+echar			lanzar	to throw			V		
+emocional				emotional			Adj		
+el engaño				deceit		from to deceive	N	m	
+engordar				to gain weight			V		
+escapar				to escape			V		
+esclarecer				to clear up			V		
+febril				feverish			Adj		
+formidable			fantástico 	fantastic, formidable			Adj		
+gemelo				twin			Adj		
+la gula				gluttony, greed of overeating			N	f	
+el gusanillo				spiral binding, bug, itch			N	m	
+hallar			encontrar	to find, to be found			V		
+la hembra				female			N	f	
+la herramienta				tool			N	f	
+instar				to urge			V		
+la jaula				cage			N	f	
+la jornada				working day			N	f	
+lidiar				to deal with			V		
+ligar			vincular	to flirt, tie, link, join			V		
+la llama				flame			N	f	
+luchar				to fight			V		
+mantecoso				greasy			Adj		
+el melocotón				peach			N	m	
+la miel				honey			N	f	
+morder				to bite			V		
+oler				to smell			V		
+la paloma				dove			N	f	
+picotear				to peck			V		
+polivalente				polyvalent			Adj		
+portátil				portable			Adj		
+potente				powerful			Adj		
+el puñado				handful			N	m	
+rebatir				to refute, disprove			V		
+relucir			brillar	to shine, gleam			V		
+la rienda				rein			N	f	
+el runrún				whir		🇨🇿: bzukot	N	m	
+el salero				salt shaker			N	m	
+el sorbo				sip			N	m	
+soñoliento				sleepy			Adj		
+el sueldo			el salario 	salary			N	m	
+sórdido				sordid			Adj		
+el tiovivo				merry-go-round, carousel			N	m	
+la toalla				towel			N	f	
+la tolva				hopper, funnel-shaped chamber, chute			N	f	
+a pesar de			a despecho de, pese a	in spite of, despite			Prep		
+pese a			a despecho de, a pesar de	in spite of, notwithstanding			Prep		
+a partir de				from, as of			Prep		
+aún así				even so			Conj		
+no obstante			sin embargo 	however, nevertheless			Conj		
+ledo, leda			feliz 	cheerful 			Adj		
+colgar				to hang			V		
+la presa				prey			N	f	
+la oleada			la ola	wave			N	f	
+surtir				to supply			V		
+temblar				to shake			V		
+el timón				rudder		🇨🇿: kormidlo	N	m	
+la vela				candle			N	f	
+empujar				to push			V		
+el chaleco				vest			N	m	
+el arrecife				reef			N	m	
+virar				to tack		🇨🇿: připnout	V		
+el/la tripulante				crew member			N	m/f	
+la eslora				length			N	f	
+la huida				escape			N	f	
+la complejidad				complexity			N	f	
+el puñetazo				punch			N	m	
+esquivar				to dodge, avoid			V		
+audaz				audacious			Adj		
+la hoguera				bonfire			N	f	
+arder			quemar (tran.)	to burn			V		
+sucumbir				to succumb			V		
+dotado, dotada				gifted			Adj		
+resistir				to withstand			V		
+salvo				safe			Adj		
+agotar				to exhaust			V		
+el tendón				tendon			N	m	
+afable				affable, kind			Adj		
+despiadado, despiadada				ruthless			Adj		
+la contraparte				opposing party			N	f	
+señalar			mostrar	to show			V		
+sangrar				to bleed			V		
+la furia				fury			N	f	
+siniestro				sinister			Adj		
+diestro			derecha	right			Adj		
+infligir				to inflict			V		
+sopesar				to weigh			V		
+el golpe				hit			N	m	
+premeditado, premeditada				premeditated, calculated, deliberate			Adj		
+golpear				to hit			V		
+la cautela				caution			N	f	
+el provecho			el beneficio	benefit			N	m	
+el estribo				stirrup			N	m	
+el progenitor				progenitor			N	m	
+avergonzar				to embarrass			V		
+la cancha				court			N	f	
+el baloncesto				basketball			N	m	
+interferir				to interfere with			V		
+el/la tre				ballast			N	m	
+la ventaja			el aprovecho	advantage			N	f	
+la ira				anger, rage			N	f	
+el balancín				rocking chair			N	m	
+opuesto				opposite			Adj		
+atracar				to rob			V		
+concebir				to conceive			V		
+coercitivo				coercive			Adj		
+clavado, clavada				nailed, fixed, sharp			Adj		
+tramar				to plot, to be up to			V		
+el trastorno			desorden	disorder		medical	N	m	
+ingresar			entrar	to enter			V		
+pestañear			parpadear	to blink			V		
+maloliente				stinking			Adj		
+desaliñado, desaliñada				scruffy			Adj		
+la amenaza				threat			N	f	
+el ascensor				elevator			N	m	
+el fraude				fraud			N	m	
+votar				to vote			V		
+la ecuación				equation			N	f	
+el subidón		"as in ""subidón de azúcar"""		high			N	m	
+elogiar				to praise			V		
+lanzar			echar	to throw			V		
+acceder				to agree			V		
+el botín				plunder			N	m	
+la trampa				trap			N	f	
+el arrojo				daring, boldness, bravery			N	m	
+la cortesía				courtesy			N	f	
+pisotear				to trample on, to tread on, disrespect			V		
+el/la espía				spy			N	m	
+suave				smooth			Adj		
+el mordisco				bite			N	m	
+chasquear				to snap			V		
+el sometimiento				subjugation, submission (obedience)			N	m	
+el/la erudito				scholar			N	m	
+el/la gerente				manager			N	m	
+el dominio				control			N	m	
+ahondar				to deepen			V		
+enfadado, enfadada			furiouso	angry			Adj		
+lesionado, lesionada			herido, herida	injured			Adj		
+someter				to subdue, put down			V		
+averiguar			descubrir	to find out			V		
+rellenar				to refill			V		
+subyacente				underlying			Adj		
+claudicar				to give up			V		
+la lanzadera				space shuttle, shuttle bus or train			N	f	
+el celo				zeal		🇨🇿: horlivost	N	m	
+delgado, delgada				thin, slim, fine 			Adj		
+valioso				valuable			Adj		
+menudo			pequeño, diminuto 	small			Adj		
+perezoso				lazy			Adj		
+la comilona				feast			N	f	
+la carencia				scarcity			N	f	
+la palanca				lever			N	f	
+el/la emprendedor				entrepreneur			N	m	
+el juguete				toy			N	m	
+acudir	a			to go to, to attend			V		
+la tenacidad				tenacity			N	f	
+ahorrador				thrifty, saver		someone who doesn't spend much	Adj		
+la traza				appearance			N	f	
+evaluar				to evaluate			V		
+la acera				sidewalk, pavement			N	f	
+el/la cachorro				puppy			N	m	
+la juguetería				toy store			N	f	
+la nave			el buque, el barco	ship			N	f	
+la taquilla				ticket office			N	f	
+la recaudación			collección	collection			N	f	
+la trama				plot, conspiracy, scheme			N	f	
+el gasto				spending			N	m	
+reparar				to repair			V		
+asombroso			formidable	amazing			Adj		
+el tesoro				treasure			N	m	
+el cofre			maleta	chest, luggage 			N	m	
+sumergir				to submerge			V		
+enganchar				to hook			V		
+afirmar				to assert			V		
+la tríada				triad			N	f	
+aterrador				terrifying			Adj		
+asimismo			también	also			Adv		
+el rasgo				feature			N	m	
+sugerir				to suggest			V		
+proclive				inclined			Adj		
+el rayo				ray			N	m	
+expendedor				vending			Adj		
+la ludopatía				compulsive gambling			N	f	
+la lentitud				slowness			N	f	
+el rugido				roar			N	m	
+el empujón				push			N	m	
+alejar				to move away from			V		
+la sensación				sensation			N	f	
+la roca				rock			N	f	
+la ansia				yearning, longing		strong desire	N	f	
+la embriaguez				drunkenness			N	f	
+la velada			tarde	evening, soirée		event	N		
+el capricho				whim			N	m	
+el albedrío			voluntad	free will			N	m	
+perjudicial				damaging			Adj		
+la gota				drop	of a liquid		N	f	
+intrascendente				insignificant			Adj		
+cautivar				to captivate			V		
+el grifo				faucet			N	m	
+gotear				to drip			V		
+el fregadero				sink			N	m	
+la tentación				temptation			N	f	
+la efímera				mayfly			N	f	
+recaer				to suffer a relapse			V		
+la lucha				fight			N	f	
+la privación				deprivation			N	f	
+concienzudo				thorough, painstaking			Adj		
+aliviar				to relieve			V		
+el váter				toilet			N	m	
+colocado, colocada				placed			Adj		
+la jeringuilla				syringe			N	f	
+la vena				vein			N	f	
+el torrente				torrent			N	m	
+el pulmón				lung			N	m	
+esnifar				to sniff			V		
+apetecible				appetizing			Adj		
+el eje				axis			N	m	
+el porro				joint			N	m	
+la lejía				bleach			N	f	
+el acontecimiento			event	event			N	m	
+maleable				malleable			Adj		
+la saciedad				satiety			N	f	
+el secuestro				kidnapping			N	m	
+adquirir				to acquire			V		
+el recelo				suspicion, mistrust			N	m	
+el despilfarro		plýtvání	pérdida 	loss (unnecessary use of)			N	m	
+equivocar				to get wrong			V		
+el arrepentimiento				regret			N	m	
+el remordimiento				remorse			N	m	
+el paro				stoppage			N	m	
+concertar				to set up, arrange 	dates		V		
+matizar				to qualify			V		
+el planteamiento				approach			N	m	
+vincular				to link			V		
+el arbusto				bush			N	m	
+agudizar				to sharpen			V		
+la baya				berry			N	f	
+el cobijo				shelter			N	m	
+la inanición				starvation			N	f	
+extático, extática				ecstatic, overwhelmingly joyful			Adj		
+de golpe			de repente	suddenly 			Adv		
+el finde				weekend		colloquial	N	m	
+la lata				can, tin			N	f	
+antiguamente 			en aquel entonces 	back then			Adv		
+deleitar				to delight			V		
+ocioso, ociosa				idle, unused			Adj		
+la pugna				fight, struggle			N	f	
+el carbón				coal			N	m	
+frenar				to brake, restrain			V		
+el contrapeso				counterweight			N	m	
+la sede				seat, headquarters			N	f	
+suscitar				to provoke, to raise			V		
+atestiguar				to attest, to testify			V		
+aludir				to allude, to refer (to)			V		
+medir				to measure			V		
+el despliegue				unfolding, deployment			N	m	
+anegar				to flood, to drown			V		
+tentador				tempting			Adv		
+subyacer				to underlie, to which [...] belongs			V		
+entrenar				to train, to teach to perform			V		
+sintético, sintética				synthetic, concise			Adj		
+finamente				finely, delicately, precisely			Adv		
+el burro				donkey, idiot			N	m	
+la cacharrería				pottery, crockery (shop)			N	f	
+aberrante				abberrant, abnormal, unusual			Adj		
+el bulo				canard, hoax (false story)			N	m	
+mera, mero				mere, pure		the mere existence, etc.	Adj		
+la apuesta				wager, bet, financial stake			N	f	
+el avance			desarollo	advance, progress			N	m	
+evasivo, evasiva				evasive			Adj		
+el vigor				vigour, strenght, energy		also vigourously	N	m	
+condenar				to condemn			V		
+desabastecer				to underserve, to leave short			V		
+migrar				to migrate			V		
+la urbe				metropolis, large city			N	f	
+si sigue sin	verbo			if it doesn't	verb		Expr		
+ver obligado				to be forced to			V		
+pastar				to graze, to eat grass			V		
+la alpaca				alpaca, sheep			N	f	
+alimentar				to feed			V		
+el embalse				reservoir			N	m	
+albergar				to house, shelter, accommodate			V		
+abastecer				to supply, provide		to supply food, water, etc.	V		
+la represalia				retaliation, revenge			N	f	
+placentero, placentera				pleasant			Adj		
+el alimento				food, nourishment			N	m	
+el rendimiento				performance, yield, return			N	m	
+saciante				quenching, appeasing			Adj		
+la espinaca				spinach			N	f	
+el champiñón				button mashroom			N	m	
+triturar				to grind, shred			V		
+el aguacate				avocado			N	m	
+escalfar				to poach, to boil (eggs)			V		
+el batido				smoothie, shake			N	m	
+la antelación			anticipación, adelanto	in advance, early			N	f	
+pillar				to catch, grab			V		
+desprevenido, desprevenida				unsuspecting, unaware, unprepared			Adj		
+a medida que				as (progressively)			Conj		
+envejecer				to get old, to age			V		
+la chatarra				junk (food), scrap (metal)			N	f	
+el paladare				palate			N	m	
+contrarrestar				to counteract, to counter			V		
+atravesar				to cross, pierce, traverse			V		
+el pasillo				corridor, aisle			N	m	
+la estantería				shelf, shelving, rack, bookcase			N	f	
+desanimar				to discourage, dishearten			V		
+el desecho				waste, trash, debris			N	m	
+remunerar				to remunarate, compensate, reward			V		
+la humildad				humility, humbleness			N	f	
+la creencia			pensamiento	belief, thought			N	f	
+tangible			palpable	tangible, touchable, perceptible			Adj		
+el propietario				owner, landlord			N	m	
+mudar				to move, relocate, change			V		
+el auge				boom, ruse, peak, zenith			N	m	
+la vivienda				housing, dwelling			N	f	
+asequible				affordable, feasible			Adj		
+la materia				matter, subject			N	f	
+ascender				to ascent, mount, climb			V		
+la escala				ladder, scale			N	f	
+inmobiliario, inmobiliaria				real-estate (related)			Adj		
+el flote				floatation (action of floating)			N	m	
+el jubilado				retiree, pensioner (retired person)			N	m	
+disminuir			decrecer	to decrease			V		
