@@ -106,6 +106,15 @@ def get_translation(word: dict) -> str:
 
     return definitions2, handle_additionals(additionals)
 
+def get_synonyms(word: dict) -> (str or None):
+    try:
+        data = word[0]['definitions'][0]['examples'][0]
+        if data.startswith("Synonyms:"):
+            return data.replace("Synonyms: ","")
+        else:
+            return None
+    except:
+        return None
 
 def get_lemma(lemma: str, output, debug: bool) -> list:
     def determine_gender() -> None or str:
@@ -127,8 +136,9 @@ def get_lemma(lemma: str, output, debug: bool) -> list:
         formatted_translation, meaning_hint = get_translation(word)
         gender = determine_gender() if wordtype == "N" else None
         formatted_lemma = format_lemma(lemma, wordtype, gender)
+        synonym_aid = get_synonyms(word)
 
-        data = [formatted_lemma, formatted_translation, wordtype, gender, meaning_hint]
+        data = [formatted_lemma, formatted_translation, wordtype, gender, meaning_hint, synonym_aid]
         if debug: print(data)
         if output: 
             with open(output, "a", encoding="utf8", newline="") as f:
