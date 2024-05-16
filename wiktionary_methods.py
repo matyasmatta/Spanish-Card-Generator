@@ -47,6 +47,7 @@ def format_translation(translation):
             elif ")" in item:
                 searched_item += item
                 search = False
+                break
             elif search:
                 searched_item += item + " "
         searched_item = searched_item.replace("(", "").replace(")","")
@@ -58,6 +59,53 @@ def format_translation(translation):
 
 def get_wiktionary_list(lemmas: list, output = None, debug =  False) -> list:
     return [get_lemma(item, output, debug) for item in tqdm(lemmas)]
+
+def get_translation(word: dict) -> str:
+    def handle_duplicates(definitions: list) -> list:
+        return list(set(definitions))
+    
+    def handle_additionals(additionals: list) -> str:
+        try:
+            for item in additionals:
+                if not item:
+                    return None
+                else:
+                    if "transitive" in item:
+                        return item
+                    elif len(item.split(" ")) < 2:
+                        return item
+            return None
+        except:
+            return None
+
+    def convert_into_html(definitions: list) -> str:
+        html_list = "<ul>" 
+        for item in definitions:
+            html_list += f"  <li>{item}</li>" 
+        html_list += "</ul>"
+        return html_list
+
+    definitions = []
+    for item in word[0]['definitions']:
+        for i in range(len(item['text'])):
+            if i == 0:
+                pass
+            else:
+                definitions.append(item['text'][i])
+    definitions2, additionals = [], []
+    for item in definitions:
+        translation, additional = format_translation(item)
+        definitions2.append(translation)
+        additionals.append(additional)
+
+    definitions2 = handle_duplicates(definitions2)
+    if len(definitions2) > 1:
+        definitions2 = convert_into_html(definitions2)
+    else:
+        definitions2 = str(definitions2[0])
+
+    return definitions2, handle_additionals(additionals)
+
 
 def get_lemma(lemma: str, output, debug: bool) -> list:
     def determine_gender() -> None or str:
@@ -76,11 +124,9 @@ def get_lemma(lemma: str, output, debug: bool) -> list:
         parser = WiktionaryParser()
         word = parser.fetch(lemma, "spanish")
         wordtype = format_wordtype(word[0]['definitions'][0]['partOfSpeech'].split(" ")[0])
-        translation = word[0]['definitions'][0]['text'][1]
+        formatted_translation, meaning_hint = get_translation(word)
         gender = determine_gender() if wordtype == "N" else None
-
         formatted_lemma = format_lemma(lemma, wordtype, gender)
-        formatted_translation, meaning_hint = format_translation(translation)
 
         data = [formatted_lemma, formatted_translation, wordtype, gender, meaning_hint]
         if debug: print(data)
