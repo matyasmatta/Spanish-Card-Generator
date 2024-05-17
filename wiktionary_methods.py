@@ -2,7 +2,7 @@ from wiktionaryparser import WiktionaryParser
 from tqdm import tqdm
 import csv
 
-def format_wordtype(wordtype):
+def format_wordtype(wordtype: str) -> str:
     map = {
         "noun": "N",
         "verb": "V",
@@ -13,7 +13,7 @@ def format_wordtype(wordtype):
     }
     return map[wordtype]
 
-def format_lemma(lemma, wordtype, gender):
+def format_lemma(lemma: str, wordtype: str, gender: str) -> (str or None):
     match wordtype:
         case "N":
             match gender:
@@ -31,7 +31,7 @@ def format_lemma(lemma, wordtype, gender):
         case _:
             return lemma
 
-def format_translation(translation):
+def format_translation(translation: str):
     if "(" in translation:
         current_translation = translation.split(" ")
         search = False
@@ -57,7 +57,7 @@ def format_translation(translation):
     else:
         return translation, None
 
-def get_wiktionary_list(lemmas: list, output = None, debug =  False) -> list:
+def get_wiktionary_list(lemmas: list, output: (bool or None) = None, debug =  False) -> list:
     return [get_lemma(item, output, debug) for item in tqdm(lemmas)]
 
 def get_translation(word: dict) -> str:
