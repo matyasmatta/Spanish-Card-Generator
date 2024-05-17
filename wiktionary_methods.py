@@ -8,8 +8,10 @@ def format_wordtype(wordtype: str) -> str:
         "verb": "V",
         "adjective": "Adj",
         "adverb": "Adv",
-        "conjuction": "Conj",
-        "preposition": "Prep" 
+        "conjunction": "Conj",
+        "preposition": "Prep",
+        "pronoun": "Pron",
+        "numeral": "Num" 
     }
     return map[wordtype]
 
@@ -194,6 +196,6 @@ def get_lemma(lemma: str, output, debug: bool) -> list:
         print(f"\nNo defintion found for {lemma}")
 
 if __name__ == "__main__":
-    lemmas = ["agalla", "pues", "lindo", "copia", "mortal"]
+    lemmas = ["mil", "nosotros", "agalla", "pues", "lindo", "copia", "mortal"]
     # lemmas = ['fumar', 'dañar', 'fascinante', 'docena', 'modelo', 'cien', 'correcto', 'miserable', 'gracia', 'estupidez', 'listo', 'fallar', 'opción', 'estructura', 'espiar', 'elegante', 'accidente', 'rubio', 'rayar', 'grano', 'generación', 'divorcio', 'faltar', 'punta', 'vacación', 'botón', 'fumar', 'honestamente', 'cariño', 'disfrutar', 'exacto', 'digno', 'celebrar', 'electricidad', 'detective', 'suicidio', 'voto', 'lobo', 'imbécil', 'adentro', 'victoria', 'increíble', 'pisar', 'interior', 'arco', 'bingo', 'arañar', 'absoluto', 'mercancía', 'crimen', 'enterrar', 'muñeca', 'nacimiento', 'impresión', 'valle', 'campar', 'derrota', 'criatura', 'pacífico', 'invisible']
     get_wiktionary_list(lemmas, output="test.csv")
