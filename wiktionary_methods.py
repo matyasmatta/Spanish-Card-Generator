@@ -51,9 +51,9 @@ def format_translation(translation):
             elif search:
                 searched_item += item + " "
         searched_item = searched_item.replace("(", "").replace(")","")
-        searched_item = searched_item[:-1] if searched_item.endswith(" ") else searched_item
+        searched_item = searched_item.strip()
             
-        return translation.replace(searched_item, "").replace("(", "").replace(")",""), searched_item
+        return translation.replace(f"({searched_item})", ""), searched_item
     else:
         return translation, None
 
@@ -79,11 +79,50 @@ def get_translation(word: dict) -> str:
             return None
 
     def convert_into_html(definitions: list) -> str:
+        def correct_verb(temporary_hold: str) -> str:
+            temporary_hold = temporary_hold.strip()
+            if "to " in temporary_hold:
+                result = ""
+                for item in temporary_hold.split(" "):
+                    if "to " in result:
+                        if item == "to":
+                            pass
+                        else:
+                            result += item+" "
+                    else:
+                        result += item+" "
+                result = result.strip()
+                return result
+            else:
+                return temporary_hold
+            
+        def correct_hold(hold: str) -> str:
+            result = hold.strip().replace("  ", " ")
+            result = result[:-1] if result.endswith(",") else result
+            return result
+            
         html_list = "<ul>" 
+        temporary_hold = ""
         for item in definitions:
-            html_list += f"  <li>{item}</li>" 
-        html_list += "</ul>"
-        return html_list
+            temporary_hold += correct_verb(item) + ", "
+            if len(temporary_hold.split(" ")) > 5: # the higher this integer, the fewer HTML lists in the result
+                temporary_hold = correct_hold(correct_verb(temporary_hold))
+                html_list += f"  <li>{temporary_hold}</li>" if temporary_hold not in html_list else ""
+                final_hold = temporary_hold
+                temporary_hold = ""
+            else:
+                final_hold = correct_hold(temporary_hold)
+
+        try:
+            if not final_hold in html_list:
+                html_list += f"  <li>{final_hold}</li>"
+        except:
+            raise ValueError("There was some error inside the convert_into_html() function, please inspect.")
+        if html_list.count("<li>") <= 1:
+            return final_hold.strip()
+        else:
+            html_list += "</ul>"
+            return html_list
 
     definitions = []
     for item in word[0]['definitions']:
@@ -91,7 +130,10 @@ def get_translation(word: dict) -> str:
             if i == 0:
                 pass
             else:
-                definitions.append(item['text'][i])
+                if len(item['text'][i].split(" ")) > 20:
+                    pass
+                else:
+                    definitions.append(item['text'][i])
     definitions2, additionals = [], []
     for item in definitions:
         translation, additional = format_translation(item)
@@ -110,12 +152,16 @@ def get_synonyms(word: dict) -> (str or None):
     try:
         data = word[0]['definitions'][0]['examples'][0]
         if data.startswith("Synonyms:"):
-            return data.replace("Synonyms: ","")
+            data = data.replace("Synonyms: ","")
+            if len(data.split(", ")) > 4:
+                return ", ".join(data.split(", ")[0:5])
+            else:
+                return data
         else:
             return None
     except:
         return None
-
+    
 def get_lemma(lemma: str, output, debug: bool) -> list:
     def determine_gender() -> None or str:
         nonlocal word
@@ -148,5 +194,6 @@ def get_lemma(lemma: str, output, debug: bool) -> list:
         print(f"\nNo defintion found for {lemma}")
 
 if __name__ == "__main__":
-    lemmas = ['fascinante', 'docena', 'modelo', 'cien', 'correcto', 'dañar', 'miserable', 'gracia', 'estupidez', 'listo', 'fallar', 'opción', 'estructura', 'espiar', 'elegante', 'accidente', 'rubio', 'rayar', 'grano', 'generación', 'divorcio', 'faltar', 'punta', 'vacación', 'botón', 'fumar', 'honestamente', 'cariño', 'disfrutar', 'exacto', 'digno', 'celebrar', 'electricidad', 'detective', 'suicidio', 'voto', 'lobo', 'imbécil', 'adentro', 'victoria', 'increíble', 'pisar', 'interior', 'arco', 'bingo', 'arañar', 'absoluto', 'mercancía', 'crimen', 'enterrar', 'muñeca', 'nacimiento', 'impresión', 'valle', 'campar', 'derrota', 'criatura', 'pacífico', 'invisible']
+    lemmas = ["agalla", "pues", "lindo", "copia", "mortal"]
+    # lemmas = ['fumar', 'dañar', 'fascinante', 'docena', 'modelo', 'cien', 'correcto', 'miserable', 'gracia', 'estupidez', 'listo', 'fallar', 'opción', 'estructura', 'espiar', 'elegante', 'accidente', 'rubio', 'rayar', 'grano', 'generación', 'divorcio', 'faltar', 'punta', 'vacación', 'botón', 'fumar', 'honestamente', 'cariño', 'disfrutar', 'exacto', 'digno', 'celebrar', 'electricidad', 'detective', 'suicidio', 'voto', 'lobo', 'imbécil', 'adentro', 'victoria', 'increíble', 'pisar', 'interior', 'arco', 'bingo', 'arañar', 'absoluto', 'mercancía', 'crimen', 'enterrar', 'muñeca', 'nacimiento', 'impresión', 'valle', 'campar', 'derrota', 'criatura', 'pacífico', 'invisible']
     get_wiktionary_list(lemmas, output="test.csv")
